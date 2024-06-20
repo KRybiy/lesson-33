@@ -20,6 +20,7 @@
     "gulp-pug": "^5.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^5.1.0",
+    "sass": "^1.77.6",
     "sort-css-media-queries": "^2.2.0"
   }
 }
